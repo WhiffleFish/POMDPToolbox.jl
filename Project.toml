@@ -1,0 +1,11 @@
+name = "POMDPToolbox"
+uuid = "4738df21-7dd8-4368-85f0-a24d52ab3a91"
+authors = ["WhiffleFish <tylertronics@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BeliefUpdaters = "8bb6e9a1-7d73-552c-a44a-e5dc5634aac4"
+POMDPModelTools = "08074719-1b2a-587c-a292-00f91cc44415"
+POMDPPolicies = "182e52fb-cfd0-5e46-8c26-fd0667c990f4"
+POMDPSimulators = "e0d0a172-29c6-5d4e-96d0-f262df5d01fd"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
